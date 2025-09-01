@@ -1,4 +1,4 @@
-# Linux Boot Process (Step-by-Step)
+# Linux Boot Process (Step-by-Step Process)
 
 Understanding the Linux boot process is crucial for troubleshooting and system administration.  
 Here’s the sequence:
