@@ -40,7 +40,6 @@ Here’s the sequence:
 8. **User Login**
    - Once services are started & default target is reached, login prompt appears.
 
-![Linux Boot Process](images/linux_boot_process.png)
 
 
 📌 *This entire flow completes within seconds every time you boot your Linux machine!*
